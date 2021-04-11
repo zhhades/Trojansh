@@ -19,6 +19,4 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Troja
 
 wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Trojansh/master/trojan3.sh" && chmod +x trojan3.sh && ./trojan3.sh
 
-v2ray
-
-bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+使用tcp.sh一键安装BBR加速
